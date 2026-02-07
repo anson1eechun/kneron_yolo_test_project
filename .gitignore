@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# 模型檔案和訓練結果（太大，不應該上傳）
+*.pt
+*.onnx
+*.engine
+*.tflite
+*.pb
+runs/
+yolov8n.pt
+yolo26n.pt
+
+# 資料集（如果太大）
+# PPE detection.v1i.yolov8/train/
+# PPE detection.v1i.yolov8/valid/
+# PPE detection.v1i.yolov8/test/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 環境變數
+.env
+.env.local
+
+# 日誌
+*.log
+
+# 快取
+*.cache
+.cache/
+
