@@ -26,6 +26,13 @@ yolo26n.pt
 
 # 大型檔案
 dataset.zip
+kneron_workspace.zip
+
+# Kneron 編譯產物與官方 SDK（體積大，勿納入 Git）
+*.nef
+*.bie
+KL520_SDK_2.2.0/
+
 *.mp4
 *.avi
 *.mov

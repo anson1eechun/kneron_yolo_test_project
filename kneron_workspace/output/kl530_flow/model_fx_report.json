@@ -1,0 +1,23 @@
+{
+    "docker_version": "kneron/toolchain:v0.32.1",
+    "comments": "",
+    "kdp530/input bitwidth": "int8",
+    "kdp530/output bitwidth": "int8",
+    "kdp530/cpu bitwidth": "int8",
+    "kdp530/datapath bitwidth": "int8",
+    "kdp530/weight bitwidth": "int8",
+    "kdp530/ip_eval/fps": "14.3784",
+    "kdp530/ip_eval/ITC(ms)": "69.5489 ms",
+    "kdp530/ip_eval/C(GOPs)": "4.13823e+09",
+    "kdp530/ip_eval/RDMA bandwidth GB/s": "3.6 GB/s",
+    "kdp530/ip_eval/WDMA bandwidth GB/s": "3.6 GB/s",
+    "kdp530/ip_eval/GETW bandwidth GB/s": "3.6 GB/s",
+    "kdp530/ip_eval/RV(mb)": 90.9954,
+    "kdp530/ip_eval/WV(mb)": 68.868,
+    "kdp530/ip_eval/cpu_node": "KneronLog2: /model.22/dfl/Softmax_KNX_div_KNX_reciprocal_KNX_log2//KneronPow2: /model.22/dfl/Softmax_KNX_div_KNX_reciprocal_KNX_pow2",
+    "kdp530/bie": "best.ktc13.kdp530.scaled.bie",
+    "kdp530/onnx": "best.ktc13.kdp530.decomposed.onnx",
+    "kdp530/nef": "models_530.nef",
+    "gen fx model report": "model_fx_report.html",
+    "gen fx model json": "model_fx_report.json"
+}

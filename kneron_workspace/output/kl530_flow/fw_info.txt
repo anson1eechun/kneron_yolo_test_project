@@ -1,0 +1,8 @@
+Total [1] models:
+[best]
+    id: [32770], version: [0x1]
+    size: input [0x2b7500], output [0x1cb600], buf [0x859800], cmd [0x6e014], weight [0x3b3ce0], fw_code [0x127dfc]
+    addr: input [0x80220000], output [0x804d7500], buf [0x806a2b00], cmd [0x80efc300], weight [0x80f6a320], fw_code [0x8131e000]
+dram_addr_end [0x81445dfc], total bin size: [0x549afc]
+checksum: all_models.bin [0x200b8185]
+	0 [0x200b8185],

@@ -1,0 +1,6 @@
+{
+    "docker_version": "kneron/toolchain:v0.32.0",
+    "comments": "",
+    "gen fx model report": "model_fx_report.html",
+    "gen fx model json": "model_fx_report.json"
+}
